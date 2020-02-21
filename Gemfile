@@ -8,6 +8,7 @@ gem 'require_all'
 gem 'sqlite3'
 gem 'thin'
 gem 'shotgun'
+gem 'rack-flash3'
 gem 'pry'
 gem 'bcrypt'
 gem "tux"
@@ -18,3 +19,4 @@ group :test do
   gem 'rack-test'
   gem 'database_cleaner'
 end
+
