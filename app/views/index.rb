@@ -1,4 +1,4 @@
-<!DOCTYPE HTML>
+
 <h2>Welcome to Fwitter!</h2>
 <p>Please signin or signup below:</p>
 
